@@ -1,0 +1,11 @@
+.footer-text {
+  text-align: center;
+  /* color: #868e96; */
+  font-weight: 100;
+  font-size: 14px;
+  font-family: "Google Sans Regular";
+}
+
+.footer-div {
+  margin-top: 2rem;
+}
