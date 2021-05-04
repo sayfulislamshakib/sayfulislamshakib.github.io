@@ -1,12 +1,9 @@
 {
   "private": true,
   "name": "protfolio",
-  "homepage": "https://sayfulislamshakib.github.io/",
   "version": "1.0.0",
   "scripts": {
     "build": "react-scripts build",
-    "predeploy": "yarn build",
-    "deploy": "gh-pages -d build",
     "eject": "react-scripts eject",
     "start": "react-scripts start",
     "test": "react-scripts test"
