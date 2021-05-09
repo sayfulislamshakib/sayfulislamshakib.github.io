@@ -29,7 +29,7 @@ const socialMediaLinks = {
   gitlab: "https://facebook.com/sis.shakib.DT",
   facebook: "https://www.facebook.com/sis.shakib.DT/",
   twitter: "https://twitter.com/sayful_shakib",
-  instagram: "#",
+  // instagram: "#",
 };
 
 const skills = {
