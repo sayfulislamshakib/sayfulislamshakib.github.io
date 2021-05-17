@@ -62,9 +62,9 @@ body {
   width: 10px;
   height: 0px;
 }
-/* ::-webkit-scrollbar-track {
-  background: #292a2d;
-} */
+::-webkit-scrollbar-track {
+  background: transparent;
+}
 ::-webkit-scrollbar-thumb {
   background: #cecece;
   border-radius: 50px;
