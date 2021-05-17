@@ -1,5 +1,3 @@
-/* Change this file to get your personal Porfolio */
-
 // Website related settings
 const settings = {
   isSplash: true, // Change this to true if you want to use the splash screen.
@@ -15,7 +13,7 @@ const greeting = {
   nickname: "Sayful / Shakib",
   full_name: "Sayful Islam Shakib",
   subTitle:
-    "FRONT-END WEB DEVELOPER, Graphics designer & GOOGLE certified UX/UI designer",
+    "CREATIVE FRONT-END WEB DEVELOPER, certified graphic designer & Google certified UX/UI designer.",
   resumeLink:
     "https://drive.google.com/file/d/1H45LcC_kU-7b6EBiaeWoi_nhguC15fcy/view?usp=sharing",
   mail: "connect.sayful@gmail.com",
