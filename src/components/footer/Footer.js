@@ -9,12 +9,7 @@ export default function Footer(props) {
     <div className="footer-div">
       <Fade>
         <p className="footer-text" style={{ color: props.theme.secondaryText }}>
-          Copyright {greeting.full_name}
-<<<<<<< HEAD
-          {/* {greeting.title2} */}
-=======
->>>>>>> 3647925d8827e9929dd94a7b4c052a77c2ea76a4
-        </p>
+          Copyright {greeting.full_name}</p>
       </Fade>
     </div>
   );
