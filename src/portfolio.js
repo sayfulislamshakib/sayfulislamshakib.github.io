@@ -25,7 +25,7 @@ const socialMediaLinks = {
   linkedin: "https://www.linkedin.com/in/sayfulislamshakib/",
   gmail: "connect.sayful@gmail.com",
   gitlab: "https://facebook.com/sis.shakib.DT",
-  facebook: "https://www.facebook.com/sis.shakib.DT/",
+  facebook: "https://www.facebook.com/sayfulislamshakibfb",
   twitter: "https://twitter.com/sayful_shakib",
   // instagram: "#",
 };
